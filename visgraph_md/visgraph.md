@@ -145,7 +145,7 @@ display_png(png, raw=True)
 
 
     
-![png](output_19_0.png)
+![](https://github.com/zepholus/visgraph/blob/main/visgraph_md/output_19_0.png?raw=true)
     
 
 
@@ -170,8 +170,8 @@ display_png(png, raw=True)
 
 
     
-![png](output_23_0.png)
-    
+![](https://github.com/zepholus/visgraph/blob/main/visgraph_md/output_23_0.png?raw=true)
+        
 
 
 Mirem quants polígons diferents hi ha:
@@ -282,9 +282,5 @@ plot = df.hvplot(width=1500, height=1000, geo=True, tiles='ESRI') \
 png, info = renderer(plot, fmt='png')
 display_png(png, raw=True)
 ```
-
-
-    
-![png](output_39_0.png)
-    
+![](https://github.com/zepholus/visgraph/blob/main/visgraph_md/output_39_0.png?raw=true)
 
